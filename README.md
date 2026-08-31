@@ -7,7 +7,7 @@
 ## Dataset
 This repository does not include datasets. Please download them from the official sources below and configure the dataset path accordingly.
 - **UCI-HAR** dataset is available at https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
-- **PAMAP2** dataset is available at
+- **PAMAP2** dataset is available at https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring
 - **MotionSense** dataset is available at https://www.kaggle.com/datasets/malekzadeh/motionsense-dataset
 - **PPG-DaLiA** dataset is available at https://archive.ics.uci.edu/dataset/495/ppg+dalia
 - **USC-HAD** dataset is available at
