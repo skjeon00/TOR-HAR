@@ -15,4 +15,4 @@ This repository does not include datasets. Please download them from the officia
 
 ## Contact
 For questions or issues, please contact:
-- Seokyeong Jeon : seo1270@gachon.ac.kr
+- SeoKyeong Jeon : seo1270@gachon.ac.kr
