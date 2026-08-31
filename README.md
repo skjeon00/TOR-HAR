@@ -13,6 +13,21 @@ This repository does not include datasets. Please download them from the officia
 - **PPG-DaLiA** dataset is available at https://archive.ics.uci.edu/dataset/495/ppg+dalia
 - **USC-HAD** dataset is available at https://sipi.usc.edu/had/
 
+## Citing this Repository
+If you use this code in your research, please cite:
+```bibtex
+@article{ABF-HAR,
+  title   = {Temporal Over-Resolution in Wearable Human Activity Recognition: A Controlled Study of Reduced Temporal Density},
+  author  = {Seokyeong Jeon and Myung-Kyu Yi},
+  journal = {},
+  volume  = {},
+  number  = {},
+  pages   = {},
+  year    = {2026},
+  publisher = {}
+}
+```
+
 ## Contact
 For questions or issues, please contact:
-- SeoKyeong Jeon : seo1270@gachon.ac.kr
+- Seo-Kyeong Jeon : seo1270@gachon.ac.kr
