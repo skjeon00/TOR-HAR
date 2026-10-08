@@ -16,7 +16,7 @@ This repository does not include datasets. Please download them from the officia
 ## Citing this Repository
 If you use this code in your research, please cite:
 ```bibtex
-@article{ABF-HAR,
+@article{TOR-HAR,
   title   = {Temporal Over-Resolution in Wearable Human Activity Recognition: A Controlled Study of Reduced Temporal Density},
   author  = {Seokyeong Jeon and Myung-Kyu Yi},
   journal = {},
